@@ -1,1 +1,3 @@
+This folder contains implementations of classification algorithms and reports that provide a detailed explanation. 
 
+Each report includes the theoretical background, implementation details, and evaluation metrics used to measure the performance of the algorithms.
