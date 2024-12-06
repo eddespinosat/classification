@@ -10,6 +10,7 @@ Support Vector Machines (SVM)
 Decision Trees and Random Forests
 Naive Bayes
 Logistic Regression
+Among others
 
 Complementary techniques:
 Feature selection and dimensionality reduction (e.g., PCA).
