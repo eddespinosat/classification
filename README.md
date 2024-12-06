@@ -1,4 +1,4 @@
-# classification
+# Classification
 
 This repository contains the programs and projects developed during a Pattern Classification course. The course covered the fundamental concepts and practical implementations of classification techniques in Machine Learning, focusing on traditional algorithms.
 
